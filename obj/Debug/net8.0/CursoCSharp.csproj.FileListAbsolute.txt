@@ -1,0 +1,14 @@
+F:\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.exe
+F:\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.deps.json
+F:\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.runtimeconfig.json
+F:\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.dll
+F:\CursoCSharp\CursoCSharp\bin\Debug\net8.0\CursoCSharp.pdb
+F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.AssemblyInfoInputs.cache
+F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.AssemblyInfo.cs
+F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.csproj.CoreCompileInputs.cache
+F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.dll
+F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\refint\CursoCSharp.dll
+F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.pdb
+F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
+F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\ref\CursoCSharp.dll
