@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "F:\\CursoCSharp\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\VariaveisEConstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\VariaveisEConstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\Comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\centraldeexercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:centraldeexercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\PrimeiroPrograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\PrimeiroPrograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,33 +26,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CentralDeExercicios.cs",
-              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\CentralDeExercicios.cs",
-              "RelativeDocumentMoniker": "CentralDeExercicios.cs",
-              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\CentralDeExercicios.cs",
-              "RelativeToolTip": "CentralDeExercicios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "VariaveisEConstantes.cs",
+              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\VariaveisEConstantes.cs",
+              "RelativeDocumentMoniker": "Fundamentos\\VariaveisEConstantes.cs",
+              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\VariaveisEConstantes.cs",
+              "RelativeToolTip": "Fundamentos\\VariaveisEConstantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:49:24.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T13:39:54.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:29:38.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T11:29:38.138Z"
             },
             {
               "$type": "Document",
@@ -64,12 +62,11 @@
               "RelativeToolTip": "Fundamentos\\Comentarios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:20:41.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T12:20:41.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PrimeiroPrograma.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\PrimeiroPrograma.cs",
               "RelativeDocumentMoniker": "Fundamentos\\PrimeiroPrograma.cs",
@@ -77,8 +74,7 @@
               "RelativeToolTip": "Fundamentos\\PrimeiroPrograma.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:29:35.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T11:29:35.123Z"
             }
           ]
         }
