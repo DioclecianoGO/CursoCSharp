@@ -12,3 +12,4 @@ F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\refint\CursoCSharp.dll
 F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.pdb
 F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
 F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\ref\CursoCSharp.dll
+F:\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.sourcelink.json

@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\CursoCSharp\\CursoCSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\centraldeexercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:centraldeexercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CentralDeExercicios.cs",
+              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\CentralDeExercicios.cs",
+              "RelativeDocumentMoniker": "CentralDeExercicios.cs",
+              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\CentralDeExercicios.cs",
+              "RelativeToolTip": "CentralDeExercicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:34:47.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:29:38.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimeiroPrograma.cs",
+              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\PrimeiroPrograma.cs",
+              "RelativeDocumentMoniker": "Fundamentos\\PrimeiroPrograma.cs",
+              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\PrimeiroPrograma.cs",
+              "RelativeToolTip": "Fundamentos\\PrimeiroPrograma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:29:35.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
