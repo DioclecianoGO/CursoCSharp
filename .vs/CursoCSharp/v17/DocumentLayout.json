@@ -54,21 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OperadoresAritimeticos.cs",
-              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresAritimeticos.cs",
-              "RelativeDocumentMoniker": "Fundamentos\\OperadoresAritimeticos.cs",
-              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresAritimeticos.cs",
-              "RelativeToolTip": "Fundamentos\\OperadoresAritimeticos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T13:56:17.167Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -77,9 +64,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T11:29:38.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperadoresAritimeticos.cs",
+              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresAritimeticos.cs",
+              "RelativeDocumentMoniker": "Fundamentos\\OperadoresAritimeticos.cs",
+              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresAritimeticos.cs",
+              "RelativeToolTip": "Fundamentos\\OperadoresAritimeticos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:56:17.167Z",
               "EditorCaption": ""
             },
             {

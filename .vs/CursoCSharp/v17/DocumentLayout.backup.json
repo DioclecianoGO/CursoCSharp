@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "F:\\CursoCSharp\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Conversoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\Conversoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\operadoresaritimeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\operadoresaritimeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\FormatandoNumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\FormatandoNumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\conversoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\conversoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\LendoDados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\LendoDados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\formatandonumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\formatandonumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\NotacaoPonto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\NotacaoPonto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\lendodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\lendodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Interpolacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\Interpolacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\notacaoponto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\notacaoponto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Inferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\Inferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\interpolacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\interpolacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\VariaveisEConstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\VariaveisEConstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\inferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\inferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\Comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\variaveiseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\variaveiseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\PrimeiroPrograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentos\\PrimeiroPrograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,20 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Conversoes.cs",
-              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Conversoes.cs",
-              "RelativeDocumentMoniker": "Fundamentos\\Conversoes.cs",
-              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Conversoes.cs",
-              "RelativeToolTip": "Fundamentos\\Conversoes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T19:37:09.725Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -72,13 +64,40 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:29:38.138Z"
+              "WhenOpened": "2024-08-23T11:29:38.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperadoresAritimeticos.cs",
+              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresAritimeticos.cs",
+              "RelativeDocumentMoniker": "Fundamentos\\OperadoresAritimeticos.cs",
+              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresAritimeticos.cs",
+              "RelativeToolTip": "Fundamentos\\OperadoresAritimeticos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:56:17.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Conversoes.cs",
+              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Conversoes.cs",
+              "RelativeDocumentMoniker": "Fundamentos\\Conversoes.cs",
+              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Conversoes.cs",
+              "RelativeToolTip": "Fundamentos\\Conversoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T19:37:09.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FormatandoNumero.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\FormatandoNumero.cs",
               "RelativeDocumentMoniker": "Fundamentos\\FormatandoNumero.cs",
@@ -90,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LendoDados.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\LendoDados.cs",
               "RelativeDocumentMoniker": "Fundamentos\\LendoDados.cs",
@@ -102,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NotacaoPonto.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\NotacaoPonto.cs",
               "RelativeDocumentMoniker": "Fundamentos\\NotacaoPonto.cs",
@@ -114,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Interpolacao.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Interpolacao.cs",
               "RelativeDocumentMoniker": "Fundamentos\\Interpolacao.cs",
@@ -126,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Inferencia.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Inferencia.cs",
               "RelativeDocumentMoniker": "Fundamentos\\Inferencia.cs",
@@ -138,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "VariaveisEConstantes.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\VariaveisEConstantes.cs",
               "RelativeDocumentMoniker": "Fundamentos\\VariaveisEConstantes.cs",
@@ -150,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Comentarios.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Comentarios.cs",
               "RelativeDocumentMoniker": "Fundamentos\\Comentarios.cs",
@@ -162,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PrimeiroPrograma.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\PrimeiroPrograma.cs",
               "RelativeDocumentMoniker": "Fundamentos\\PrimeiroPrograma.cs",
