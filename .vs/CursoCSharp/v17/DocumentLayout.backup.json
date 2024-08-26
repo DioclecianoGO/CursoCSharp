@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "F:\\CursoCSharp\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\operadoreslogicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\operadoreslogicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\operadoresunarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\operadoresunarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\operadoresatribuicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\operadoresatribuicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\operadoreslogicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:fundamentos\\operadoreslogicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\fundamentos\\operadoresrelacionais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +70,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:29:38.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OperadoresUnarios.cs",
+              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresUnarios.cs",
+              "RelativeDocumentMoniker": "Fundamentos\\OperadoresUnarios.cs",
+              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresUnarios.cs",
+              "RelativeToolTip": "Fundamentos\\OperadoresUnarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:56:58.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperadoresAtribuicao.cs",
+              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresAtribuicao.cs",
+              "RelativeDocumentMoniker": "Fundamentos\\OperadoresAtribuicao.cs",
+              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresAtribuicao.cs",
+              "RelativeToolTip": "Fundamentos\\OperadoresAtribuicao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:30:29.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OperadoresLogicos.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresLogicos.cs",
               "RelativeDocumentMoniker": "Fundamentos\\OperadoresLogicos.cs",
@@ -79,20 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:29:38.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "OperadoresRelacionais.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresRelacionais.cs",
               "RelativeDocumentMoniker": "Fundamentos\\OperadoresRelacionais.cs",
@@ -105,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "OperadoresAritimeticos.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresAritimeticos.cs",
               "RelativeDocumentMoniker": "Fundamentos\\OperadoresAritimeticos.cs",
@@ -118,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Conversoes.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Conversoes.cs",
               "RelativeDocumentMoniker": "Fundamentos\\Conversoes.cs",
@@ -131,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FormatandoNumero.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\FormatandoNumero.cs",
               "RelativeDocumentMoniker": "Fundamentos\\FormatandoNumero.cs",
@@ -144,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "LendoDados.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\LendoDados.cs",
               "RelativeDocumentMoniker": "Fundamentos\\LendoDados.cs",
@@ -157,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "NotacaoPonto.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\NotacaoPonto.cs",
               "RelativeDocumentMoniker": "Fundamentos\\NotacaoPonto.cs",
@@ -170,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Interpolacao.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Interpolacao.cs",
               "RelativeDocumentMoniker": "Fundamentos\\Interpolacao.cs",
@@ -183,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Inferencia.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Inferencia.cs",
               "RelativeDocumentMoniker": "Fundamentos\\Inferencia.cs",
@@ -195,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "VariaveisEConstantes.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\VariaveisEConstantes.cs",
               "RelativeDocumentMoniker": "Fundamentos\\VariaveisEConstantes.cs",
@@ -207,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Comentarios.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\Comentarios.cs",
               "RelativeDocumentMoniker": "Fundamentos\\Comentarios.cs",
@@ -219,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "PrimeiroPrograma.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\Fundamentos\\PrimeiroPrograma.cs",
               "RelativeDocumentMoniker": "Fundamentos\\PrimeiroPrograma.cs",
