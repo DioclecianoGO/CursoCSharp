@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "F:\\CursoCSharp\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\extruturasdecontrole\\estruturaifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:extruturasdecontrole\\estruturaifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\extruturasdecontrole\\estruturaifelseif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:extruturasdecontrole\\estruturaifelseif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\extruturasdecontrole\\estruturaifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|solutionrelative:extruturasdecontrole\\estruturaifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB2A8536-8A17-42BD-ABF1-C45D9BB8F935}|CursoCSharp.csproj|f:\\cursocsharp\\cursocsharp\\extruturasdecontrole\\estruturaif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EstruturaIfElseIf.cs",
+              "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\ExtruturasDeControle\\EstruturaIfElseIf.cs",
+              "RelativeDocumentMoniker": "ExtruturasDeControle\\EstruturaIfElseIf.cs",
+              "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\ExtruturasDeControle\\EstruturaIfElseIf.cs",
+              "RelativeToolTip": "ExtruturasDeControle\\EstruturaIfElseIf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:57:19.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EstruturaIfElse.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\ExtruturasDeControle\\EstruturaIfElse.cs",
               "RelativeDocumentMoniker": "ExtruturasDeControle\\EstruturaIfElse.cs",
               "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\ExtruturasDeControle\\EstruturaIfElse.cs",
               "RelativeToolTip": "ExtruturasDeControle\\EstruturaIfElse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T13:48:03.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EstruturaIf.cs",
               "DocumentMoniker": "F:\\CursoCSharp\\CursoCSharp\\ExtruturasDeControle\\EstruturaIf.cs",
               "RelativeDocumentMoniker": "ExtruturasDeControle\\EstruturaIf.cs",
@@ -58,7 +75,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T11:29:38.138Z",
               "EditorCaption": ""
