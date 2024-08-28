@@ -2,7 +2,6 @@
 
 namespace CursoCSharp.ClassesEMetodos {
     internal class Membros {
-        public static string Hello() => "Goodbye, Mars!";
         public static void Executar() {
             Pessoa sicrano = new Pessoa();
             sicrano.Nome = "Renato";
@@ -22,10 +21,6 @@ namespace CursoCSharp.ClassesEMetodos {
             Console.WriteLine(apresentacaoDoFulano.Length);
             Console.WriteLine(apresentacaoDoFulano);
 
-            // Console.WriteLine(Hello().Replace("Goodbye", "Hello").Replace("Mars", "World"));
-
-            string resultado = Hello().Replace("Goodbye", "Hello").Replace("Mars", "World");
-            Console.WriteLine(resultado);
         }
     }
 }
